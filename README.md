@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Suz!
+# Hi there 👋 I'm Suz!
 
 - I'm new here so be kind :cherry_blossom:
 
-# :dancer: get to know me:
+## :dancer: get to know me:
 
 - Why I'm here: To get better and better in my work :rainbow:
 - Ambitions: To make the world easier and spoil my cat rot :smirk_cat:
@@ -10,7 +10,7 @@
 - Loves: My cat, Puzzles and Beautiful things :tea:
 
 
-# :speech_balloon: Languages:
+## :speech_balloon: Languages:
 
 - Portuguese - Native
 - English - Fluent
