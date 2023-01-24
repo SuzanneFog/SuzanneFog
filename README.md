@@ -1,3 +1,5 @@
+https://www.codewars.com/users/SuzFog/badges/large
+
 # Hi there 👋 I'm Suz!
 
 - I'm new here so be kind :cherry_blossom:
@@ -15,7 +17,7 @@
 - Portuguese - Native
 - English - Fluent
 - Spanish - Basic
-- Python - Advanced
+- Python - Advanced :snake:
 - JavaScript - Basic
 - ...more to come :heart_eyes:
 
