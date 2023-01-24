@@ -1,5 +1,3 @@
-https://www.codewars.com/users/SuzFog/badges/large
-
 # Hi there 👋 I'm Suz!
 
 - I'm new here so be kind :cherry_blossom:
